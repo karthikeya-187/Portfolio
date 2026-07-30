@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://portfolio-karthikeya12.vercel.app/sitemap.xml
